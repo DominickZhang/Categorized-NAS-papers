@@ -134,7 +134,7 @@ See this link:
 
 > https://github.com/DominickZhang/Paper-list-of-NAS-in-Medical-Imaging
 
-##Pruning
+## Pruning
 
 key words: channel pruning; differentiable; mask pruning
 
