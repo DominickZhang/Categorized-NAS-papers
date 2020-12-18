@@ -128,6 +128,12 @@ key words: DARTS; differentiable
 - **Differentiable Neural Network Architecture Search** (Shin et al. 2018; accepted at ICLR’18 workshop)
   https://openreview.net/pdf?id=BJ-MRKkwG
 
+## Medical Imaging
+
+See this link:
+
+> https://github.com/DominickZhang/Paper-list-of-NAS-in-Medical-Imaging
+
 ##Pruning
 
 key words: channel pruning; differentiable; mask pruning
