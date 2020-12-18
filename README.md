@@ -1,6 +1,14 @@
 # Categorized NAS papers
 
+ This useful website contains a regularly updated list of NAS papers.
 
+> https://www.automl.org/automl/literature-on-neural-architecture-search/
+
+For faster localization of papers in a specific area, I am trying categorizing these papers and summarizing the key words. This categorization is based on my own understanding, and might contain some misclassifications. I would be grateful for any feedback that points out these mistakes.
+
+Following the traditions, the papers accepted at conferences and journals are in **bold**. Hopefully it can provide some guidance towards high-quality papers.
+
+*Maintained by <span style="color:red">Jinnian Zhang</span>;*  *Last update: <span style="color:red">December 18th 2020</span>*
 
 ## DARTS
 
