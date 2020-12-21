@@ -87,7 +87,7 @@ key words: DARTS; differentiable
   https://arxiv.org/abs/2001.04246
 - RC-DARTS: Resource Constrained Differentiable Architecture Search (Jin et al. 2019)
   https://arxiv.org/abs/1912.12814
-- UNAS: Differentiable Architecture Search Meets Reinforcement Learning (Vahdat et al. 2019)
+- **UNAS: Differentiable Architecture Search Meets Reinforcement Learning** (Vahdat et al. 2019; accepted at CVPR'20)
   https://arxiv.org/abs/1912.07651
 - Efficient Differentiable Neural Architecture Search with Meta Kernels (Chen et al. 2019)
   https://arxiv.org/abs/1912.04749
