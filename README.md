@@ -52,7 +52,7 @@ key words: object detection
   https://arxiv.org/abs/2003.11818
 - SM-NAS: Structural-to-Modular Neural Architecture Search for Object Detection (Yao et al. 2019)
   https://arxiv.org/abs/1911.09929
-- EfficientDet: Scalable and Efficient Object Detection
+- EfficientDet: Scalable and Efficient Object Detection (Adjustable without proposed automatic search methods)
   https://arxiv.org/abs/1911.09070
 - **Auto-FPN: Automatic Network Architecture Adaptation for Object Detection Beyond Classification** (Xu et al. 2019; accepted at ICCV’19)
   http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Auto-FPN_Automatic_Network_Architecture_Adaptation_for_Object_Detection_Beyond_Classification_ICCV_2019_paper.pdf
