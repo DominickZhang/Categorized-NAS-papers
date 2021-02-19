@@ -16,19 +16,14 @@ key words: object detection
 
 - **Loss Function Discover for Object Detection via Convergence-Simulation Driven Search** (Liu et al. 2021; accepted at ICLR 2021)
   https://arxiv.org/abs/2102.04700
-
 - **NAS-WFPN: Neural Architecture Search Weighted Feature Pyramid Networks for Object Detection** (Li et al. 2020; accepted at SpaCCS 2020)
   https://link.springer.com/chapter/10.1007/978-3-030-68884-4_32
-
 - Efficient Multi-objective Evolutionary 3D NeuralArchitecture Search for COVID-19 Detection withChest CT Scans (He et al. 2021)
   https://arxiv.org/abs/2101.10667
-
 - GIID-Net: Generalizable Image Inpainting Detection via Neural Architecture Search and Attention (Wu et al. 2021)
   https://arxiv.org/abs/2101.07419
-
 - **Automated Model Design and Benchmarking of 3D Deep Learning Models for COVID-19 Detection with Chest CT Scans** (He et al. 2021; accepted at AAAI2021)
   https://arxiv.org/abs/2101.05442
-
 - **AutoDet: Pyramid Network Architecture Search for Object Detection** (Li et al. 2021; accepted at International Journal of Computer Vision)
   https://link.springer.com/article/10.1007/s11263-020-01415-x
 
