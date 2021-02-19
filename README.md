@@ -8,7 +8,62 @@ For faster localization of papers in a specific area, I am trying categorizing t
 
 Following the traditions, the papers accepted at conferences and journals are in **bold**. Hopefully it can provide some guidance towards high-quality papers.
 
-*Maintained by <span style="color:red">Jinnian Zhang</span>;*  *Last update: <span style="color:red">December 18th 2020</span>*
+*Maintained by <span style="color:red">Jinnian Zhang</span>;*  *Last update: <span style="color:red">Feb 19th 2021</span>*
+
+## Object Detection
+
+key words: object detection
+
+- **Loss Function Discover for Object Detection via Convergence-Simulation Driven Search** (Liu et al. 2021; accepted at ICLR 2021)
+  https://arxiv.org/abs/2102.04700
+- **NAS-WFPN: Neural Architecture Search Weighted Feature Pyramid Networks for Object Detection** (Li et al. 2020; accepted at SpaCCS 2020)
+  https://link.springer.com/chapter/10.1007/978-3-030-68884-4_32
+- Efficient Multi-objective Evolutionary 3D NeuralArchitecture Search for COVID-19 Detection withChest CT Scans (He et al. 2021)
+  https://arxiv.org/abs/2101.10667
+- GIID-Net: Generalizable Image Inpainting Detection via Neural Architecture Search and Attention (Wu et al. 2021)
+  https://arxiv.org/abs/2101.07419
+- **Automated Model Design and Benchmarking of 3D Deep Learning Models for COVID-19 Detection with Chest CT Scans** (He et al. 2021; accepted at AAAI2021)
+  https://arxiv.org/abs/2101.05442
+- **AutoDet: Pyramid Network Architecture Search for Object Detection** (Li et al. 2021; accepted at International Journal of Computer Vision)
+  https://link.springer.com/article/10.1007/s11263-020-01415-x
+- **Nontechnical Loss Detection of Electricity based on Neural Architecture Search in Distribution Power Networks** (Dong et al. 2020; accepted at ICSGCE 2020)
+  https://ieeexplore.ieee.org/abstract/document/9275605
+- Adaptive Linear Span Network for Object Skeleton Detection (Liu et al. 2020)
+  https://arxiv.org/abs/2011.03972
+- **Multi-Scale traffic vehicle detection based on faster R-CNN with NAS optimization and feature enrichment** (Luo et al. 2020; accepted at defense technology)
+  https://www.sciencedirect.com/science/article/pii/S2214914720304645
+- **An Accurate CNN Architecture For Atrial Fibrillation Detection Using Neural Architecture Search** (Fayyazifar 2020; accepted at eurasip 2020)
+  https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001135.pdf
+- Using Neural Architecture Search for Improving Software Flaw Detection in Multimodal Deep Learning Models (Cooper et al. 2020)
+  https://arxiv.org/abs/2009.10644
+- A Unified Approach to Anomaly Detection (Ball et al. 2020)
+  https://www.researchgate.net/profile/Hennie_Kruger/publication/343006753_A_Unified_Approach_to_Anomaly_Detection/links/5f218f1592851cd302c5fb31/A-Unified-Approach-to-Anomaly-Detection.pdf
+- AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning (Li et al. 2020)
+  https://arxiv.org/abs/2006.11321
+- **SP-NAS: Serial-to-Parallel Backbone Search for Object Detection** (Jiang et al. 2020; accepted at CVPR 2020)
+  http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_SP-NAS_Serial-to-Parallel_Backbone_Search_for_Object_Detection_CVPR_2020_paper.pdf
+- **Automated Design of Neural Network Architectures with Reinforcement Learning for Detection of Global Manipulations** (Chen et al. 2020; accepted at IEEE Journal of Selected Topics in Signal Processing)
+  https://ieeexplore.ieee.org/abstract/document/9103245
+- **Evolving Deep Neural Networks for X-ray Based Detection of Dangerous Objects** (Tsukada et al. 2020; accepted in book on “Deep Neural Evolution”)
+  https://link.springer.com/chapter/10.1007/978-981-15-3685-4_12
+- MobileDets: Searching for Object Detection Architectures for Mobile Accelerators (Xiong et al. 2020)
+  https://arxiv.org/abs/2004.14525
+- **Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection** (Guo et al. 2020; accepted at CVPR 2020)
+  https://arxiv.org/abs/2003.11818
+- SM-NAS: Structural-to-Modular Neural Architecture Search for Object Detection (Yao et al. 2019)
+  https://arxiv.org/abs/1911.09929
+- EfficientDet: Scalable and Efficient Object Detection
+  https://arxiv.org/abs/1911.09070
+- **Auto-FPN: Automatic Network Architecture Adaptation for Object Detection Beyond Classification** (Xu et al. 2019; accepted at ICCV’19)
+  http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Auto-FPN_Automatic_Network_Architecture_Adaptation_for_Object_Detection_Beyond_Classification_ICCV_2019_paper.pdf
+- Efficient Neural Architecture Transformation Search in Channel-Level for Object Detection (Peng et al. 2019)
+  https://arxiv.org/abs/1909.02293
+- Automatic Design of Artificial Neural Networks for Gamma-Ray Detection (Assuncao et al. 2019)
+  https://arxiv.org/abs/1905.03532
+- **NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection** (Ghaisi et al. 2019; accepted at CVPR’19)
+  https://arxiv.org/abs/1904.07392
+- **DetNAS: Neural Architecture Search on Object Detection** (Chen et al. 2019; accepted at NeurIPS’19)
+  https://arxiv.org/abs/1903.10979
 
 ## DARTS
 
